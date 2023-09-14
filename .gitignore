@@ -106,6 +106,7 @@ dist
 
 # JetBrains
 .idea/
+.fleet/
 
 # npm
 package-lock.json
