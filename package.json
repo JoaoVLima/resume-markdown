@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "Resume Markdown is markdown template for creating resumes using Markdown and customizing them using CSS",
   "scripts": {
-    "dev": "node --trace-warnings --watch src/server.js"
+    "dev": "node --trace-warnings --watch src/server.js",
+    "build": "node --trace-warnings --watch src/server.js",
+    "preview": "node --trace-warnings --watch src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
