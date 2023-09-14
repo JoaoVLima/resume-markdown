@@ -1,6 +1,7 @@
 const http = require('http');
+const fs = require("fs");
 const process = require('process');
-const path = require('node:path');
+const path = require('path');
 
 let hostname = '127.0.0.1';
 let port = 3000;
@@ -47,22 +48,39 @@ function handle_options() {
     return status;
 }
 
+function construct_html(){
+    // Temporary Index
+    let index = '<html><head><style>{{ style }}</style></head><body><h1>Temporary File</h1>{{ body }}</body></html>';
+    let style = '* {box-sizing: border-box;}';
+    let body = '<h2>You are not supposed to read this</h2>';
+    index = index.replace('{{ style }}', style);
+    index = index.replace('{{ body }}', body);
+
+    let index_path = __dirname + '/index.html'
+    let style_path = __dirname + `/../templates/${template}/style.css`
+    let body_path = __dirname + '/index.html'
+
+    if(!fs.existsSync(index_path)) {
+        throw 'Index not found';
+    }else if(!fs.existsSync(style_path)) {
+        throw 'Style not found';
+    }else if(!fs.existsSync(body_path)) {
+        throw 'Body not found';
+    }
+    index = fs.readFileSync(index_path, {encoding:'utf8'});
+    style = fs.readFileSync(style_path, {encoding:'utf8'});
+    index = index.replace('{{ style }}', style);
+//    index = index.replace('{{ html }}', html);
+
+    return index;
+}
+
 function main() {
     let status = handle_options();
     if (!status) return;
     
-    let index = 'nice';
-
-    fetch(path.resolve(__dirname, 'src/index.html'))
-         .then(result => result.text())
-         .then(data => {
-             index = data;
-         })
-        .catch(error => {console.error(error)});
-
-    console.log(index);
-
     const server = http.createServer((req, res) => {
+        let index = construct_html();
         res.statusCode = 200;
         res.setHeader('Content-Length', Buffer.byteLength(index));
         res.setHeader('Content-Type', 'text/html; charset=utf-8');
