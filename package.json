@@ -1,15 +1,20 @@
 {
   "name": "resume-markdown",
-  "private": true,
-  "version": "0.0.0",
-  "type": "module",
+  "version": "1.0.0",
+  "description": "Resume Markdown is markdown template for creating resumes using Markdown and customizing them using CSS",
   "scripts": {
-    "dev": "vite",
-    "build": "tsc && vite build",
-    "preview": "vite preview"
+    "dev": "webpack serve --mode=development"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JoaoVLima/resume-markdown"
+  },
+  "keywords": [],
+  "author": "JoaoVLima",
+  "license": "MIT",
   "devDependencies": {
-    "typescript": "^5.0.2",
-    "vite": "^4.4.5"
+    "http": "^0.0.1-security",
+    "process": "^0.11.10",
+    "showdown": "^2.1.0"
   }
 }
