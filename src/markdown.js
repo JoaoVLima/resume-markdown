@@ -1,4 +1,5 @@
 const fs = require("fs");
+const showdown  = require('showdown');
 
 function construct_html(template){
     // Temporary Index
@@ -12,12 +13,24 @@ function construct_html(template){
     try{
         let index_path = __dirname + '/index.html'
         let style_path = __dirname + `/../templates/${template}/style.css`
-        let body_path = __dirname + '/index.html'
+        let body_path = __dirname + `/../templates/${template}/index.md`
 
         index = fs.readFileSync(index_path, {encoding:'utf8'});
         style = fs.readFileSync(style_path, {encoding:'utf8'});
+        body = fs.readFileSync(body_path, {encoding:'utf8'});
+
+
+        // Convert markdown to html
+        let converter = new showdown.Converter({
+            openLinksInNewWindow: true,
+        })
+        body = converter.makeHtml(body);
+
+
         index = index.replace('{{ style }}', style);
-        //    index = index.replace('{{ html }}', html);
+        index = index.replace('{{ body }}', body);
+
+
     }catch (e) {
         console.log(e.message)
     }
