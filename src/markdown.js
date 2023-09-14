@@ -7,22 +7,20 @@ function construct_html(template){
     let body = '<h2>You are not supposed to read this</h2>';
     index = index.replace('{{ style }}', style);
     index = index.replace('{{ body }}', body);
+    // End Temporary Index
 
-    let index_path = __dirname + '/index.html'
-    let style_path = __dirname + `/../templates/${template}/style.css`
-    let body_path = __dirname + '/index.html'
+    try{
+        let index_path = __dirname + '/index.html'
+        let style_path = __dirname + `/../templates/${template}/style.css`
+        let body_path = __dirname + '/index.html'
 
-    if(!fs.existsSync(index_path)) {
-        throw 'Index not found';
-    }else if(!fs.existsSync(style_path)) {
-        throw 'Style not found';
-    }else if(!fs.existsSync(body_path)) {
-        throw 'Body not found';
+        index = fs.readFileSync(index_path, {encoding:'utf8'});
+        style = fs.readFileSync(style_path, {encoding:'utf8'});
+        index = index.replace('{{ style }}', style);
+        //    index = index.replace('{{ html }}', html);
+    }catch (e) {
+        console.log(e.message)
     }
-    index = fs.readFileSync(index_path, {encoding:'utf8'});
-    style = fs.readFileSync(style_path, {encoding:'utf8'});
-    index = index.replace('{{ style }}', style);
-    //    index = index.replace('{{ html }}', html);
 
     return index;
 }
