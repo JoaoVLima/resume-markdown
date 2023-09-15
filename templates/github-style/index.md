@@ -23,9 +23,10 @@ Agradeço por considerar minha candidatura para oportunidades de colaboração.
 
 - **Django** (*Python*): Python é a linguagem com a qual tenho maior afinidade, e venho desenvolvendo com ela desde 2018.
 Possuo aproximadamente **3 anos de experiência profissional com Django**, trabalhando no desenvolvimento de recursos para e-commerces e plataformas de Business Intelligence (BI).
+
 - **PostgreSQL**: Tenho ampla experiência com este sistema de banco de dados relacional, utilizando-o diariamente por cerca de **3 anos** para a manipulação eficiente e escalável de dados.
 
-- **Outras Tecnologias**: Redis e Pentaho (ETL).
+- **Outras Tecnologias**: Redis, Pentaho (ETL), REST API, Swagger, Git, Java, Spring Boot, MySQL, JavaScript, TypeScript, ThreeJS, HTML, CSS, Bootstrap, ViteJS, Linux.
 
 - **Idiomas**: Português-Brasileiro (Nativo), Inglês (Avançado).
 
@@ -37,7 +38,7 @@ Possuo aproximadamente **3 anos de experiência profissional com Django**, traba
 
 Na Inteliger, desenvolvi habilidades significativas com foco em tecnologias como Python, Django, Postgres, Redis e Pentaho (ETL). Além disso, aprimorei minha capacidade de solucionar problemas rapidamente e de comunicar eficazmente com colegas de equipe e clientes, seguindo a metodologia ágil Scrum.
 
-#### Conquistas Notáveis:
+#### Contribuições Notáveis:
 - Concepção e desenvolvimento de vários projetos para clientes em todo o Brasil.
 - Liderança como o único desenvolvedor back-end no projeto Amplius, uma plataforma de BI Web altamente customizável com atualizações em tempo real dos dados.
 
