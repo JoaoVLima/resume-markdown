@@ -1,5 +1,3 @@
-Deixe o meu curriculo mais focado para uma vaga de emprego backend django e com uma escrita formal, sem erros de portugues
-
 <h1 align="center" id="joaolima">
     João Lima
     (<a style="font-size: 25px" href="https://www.lima.dev">lima.dev</a>)
@@ -39,7 +37,7 @@ Possuo aproximadamente **3 anos de experiência profissional com Django**, traba
 
 Na Inteliger, desenvolvi habilidades significativas com foco em tecnologias como Python, Django, Postgres, Redis e Pentaho (ETL). Além disso, aprimorei minha capacidade de solucionar problemas rapidamente e de comunicar eficazmente com colegas de equipe e clientes, seguindo a metodologia ágil Scrum.
 
-**Conquistas Notáveis:**
+#### Conquistas Notáveis:
 - Concepção e desenvolvimento de vários projetos para clientes em todo o Brasil.
 - Liderança como o único desenvolvedor back-end no projeto Amplius, uma plataforma de BI Web altamente customizável com atualizações em tempo real dos dados.
 
@@ -48,9 +46,9 @@ Na Inteliger, desenvolvi habilidades significativas com foco em tecnologias como
 
 Na Joãomed, desempenhei um papel crucial no departamento de TI, sendo o único funcionário responsável por todas as operações de tecnologia da informação. Isso envolveu tarefas de organização, planejamento e escalabilidade.
 
-**Contribuições Notáveis:**
+#### Contribuições Notáveis:
 - Planejamento e execução bem-sucedidos da mudança de endereço da empresa, incluindo a gestão das necessidades de internet e telefonia.
-
+- Desenvolimento do sistema de anti-spam em Python para combater os massivos ataques de spam que a empresa estava sofrendo.
 
 ## Experiência Acadêmica
 
