@@ -51,16 +51,14 @@ Este projeto se distingue por sua capacidade de receber retornos com baixa neces
 ### Técnico de TI | *Joãomed Comércio de Materiais Cirúrgicos*
 *2021 - 2021* | [Joãomed](http://joaomed.com.br)
 
-Na Joãomed, desempenhei um papel crucial no departamento de TI, sendo reponsavel por tarefas de **planejamento**, **organização** e **reuniões com terceiros** para soluçoes de TI.
-Após aprovação em reunião com os diretores, fiz o desenvolimento de um sistema de **anti-spam em Python** para combater os ataques de spam que a empresa estava sofrendo, posteriormente sendo parabenizado e reconhecido por todos da empresa.
-
-## Experiência Acadêmica
+Na Joãomed, desempenhei um papel crucial no departamento de TI, sendo responsável por tarefas de **planejamento**, **organização** e **reuniões com terceiros** para soluçoes de TI.
+Após aprovação em reunião com os diretores, fiz o desenvolimento de um sistema de **anti-spam em Python** para combater os ataques de spam que a empresa estava sofrendo, assim, otimizando os processos de comunicação da empresa.
 
 ### Bacharel em Ciência da Computação | *Pontifícia Universidade Católica do Paraná*
 *2019 - 2024* | [PUCPR](https://www.pucpr.br/)
 
 Durante meu período na PUCPR, adquiri conhecimento sólido em Ciência da Computação e aprimorei minhas habilidades em desenvolvimento de software.
-Estudando tecnologias e soluçoes algorítmicas ao redor de *Python*, *Java*, *Orientação a objetos* e *Segurança da Informação*.
+Estudando tecnologias e soluções algorítmicas ao redor de *Python*, *Java*, *Orientação a objetos* e *Segurança da Informação*.
 
 ### Técnico em Informática | *Centro de Educação Profissional Irmão Mário Cristóvão*
 *2015 - 2018* | [TECPUC](http://www.tecpuc.com.br/)
