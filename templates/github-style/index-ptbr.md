@@ -52,7 +52,7 @@ Este projeto se distingue por sua capacidade de receber retornos com baixa neces
 *2021 - 2021* | [Joãomed](http://joaomed.com.br)
 
 Na Joãomed, desempenhei um papel crucial no departamento de TI, sendo responsável por tarefas de **planejamento**, **organização** e **reuniões com terceiros** para soluçoes de TI.
-Após aprovação em reunião com os diretores, fiz o desenvolimento de um sistema de **anti-spam em Python** para combater os ataques de spam que a empresa estava sofrendo, assim, otimizando os processos de comunicação da empresa.
+Após aprovação em reunião com os diretores, fiz o desenvolvimento de um sistema de **anti-spam em Python** para combater os ataques de spam que a empresa estava sofrendo, assim, otimizando os processos de comunicação da empresa.
 
 ### Bacharel em Ciência da Computação | *Pontifícia Universidade Católica do Paraná*
 *2019 - 2024* | [PUCPR](https://www.pucpr.br/)
