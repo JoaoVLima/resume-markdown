@@ -46,7 +46,7 @@ My role within the company evolved rapidly, as I took on the position of **back-
 *2021 - 2021* | [Joãomed](http://joaomed.com.br)
 
 At Joãomed, I played a crucial role in the IT department, responsible for **planning**, **organization** and **meetings with third parties** for IT solutions.
-After approval in a meeting with the directors, I developed a **Python-based anti-spam system** to combat the spam attacks the company was facing, subsequently being praised and recognized by everyone in the company.
+After approval in a meeting with the directors, I developed a **Python-based anti-spam system** to combat the spam attacks the company was facing.
 
 ## Academic Experience
 
