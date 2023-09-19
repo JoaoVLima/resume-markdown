@@ -1,6 +1,6 @@
 <h1 align="center" id="joaolima">
     João Lima
-    (<a style="font-size: 25px" href="https://www.lima.dev">lima.dev</a>)
+    (<a style="font-size: 25px" href="https://www.lima.dev" rel="noopener noreferrer" target="_blank">lima.dev</a>)
 </h1>
 
 &nbsp;
