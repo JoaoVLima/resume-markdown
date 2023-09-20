@@ -40,7 +40,7 @@ Agradeço por considerar minha candidatura para oportunidades de colaboração.
 ### Programador Back-End | *Inteliger - Desenvolvimento de Software*
 *2021 - Atual* | [Inteliger](https://inteliger.com.br/)
 
-Na Inteliger, desenvolvi habilidades significativas em tecnologias como *Python*, *Django*, *Postgres*, *Redis* e *Pentaho (ETL)*.
+Na Inteliger, desenvolvi habilidades significativas em tecnologias como *Python*, *Django*, *PostgreSQL*, *Redis* e *Pentaho (ETL)*.
 Além disso, aprimorei minha capacidade de **solucionar problemas de forma eficaz**, bem como estabelecer **comunicações fluidas com colegas de equipe e clientes**, seguindo os princípios da metodologia ágil *Scrum*.
 
 Tive a oportunidade de participar em **mais de 10 projetos**, desde integrações de pagamento e tercerizadas de entrega até desenvolvimento de um sistema de log e histórico de pedidos, alem do **treinamento de novos devs** que entram na empresa.
@@ -56,6 +56,8 @@ Após aprovação em reunião com os diretores, fiz o desenvolvimento de um sist
 
 ### Bacharel em Ciência da Computação | *Pontifícia Universidade Católica do Paraná*
 *2019 - 2024* | [PUCPR](https://www.pucpr.br/)
+
+## Experiência Acadêmica
 
 Durante meu período na PUCPR, adquiri conhecimento sólido em Ciência da Computação e aprimorei minhas habilidades em desenvolvimento de software.
 Estudando tecnologias e soluções algorítmicas ao redor de *Python*, *Java*, *Orientação a objetos* e *Segurança da Informação*.
