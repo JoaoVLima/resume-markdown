@@ -19,16 +19,14 @@
 
 ## Resumo Profissional
 
-Sou **João Victor de Lima**, um profissional altamente dedicado com **24 anos**, com base em Curitiba/BR.
-Tenho o compromisso de aplicar minhas **habilidades técnicas** e **experiência** para contribuir com o **sucesso de sua organização**.
-Agradeço por considerar minha candidatura para oportunidades de colaboração.
+Sou **João Victor de Lima**, desenvolvedor de software com base em Curitiba/BR, com experiência prática em **projetos de backend e frontend**, utilizando tecnologias como **Python (Django)**, **JavaScript/TypeScript**, **PostgreSQL**, **NodeJS**, entre outras. Atuei com **sistemas distribuídos**, integrações via APIs REST, ferramentas de **ETL**, e ambientes baseados em **Linux**. Estou constantemente aprimorando minhas habilidades em **microserviços**, **CI/CD**, e **nuvem (AWS/GCP)**.
 
 
 ## Experiência Técnica / Habilidades
 
-- **Django** (*Python*): Possuo aproximadamente **3 anos de experiência profissional com Django**, trabalhando no desenvolvimento de recursos para *e-commerces* e plataformas de *Business Intelligence (BI)*.
+- **Django** (*Python*): Possuo aproximadamente **4 anos de experiência profissional com Django**, trabalhando no desenvolvimento de recursos para *e-commerces* e plataformas de *Business Intelligence (BI)*.
 
-- **PostgreSQL**: Tenho ampla experiência com este sistema de banco de dados relacional, utilizando-o diariamente por cerca de **3 anos** para a manipulação eficiente de dados.
+- **PostgreSQL**: Tenho ampla experiência com este sistema de banco de dados relacional, utilizando-o diariamente por cerca de **4 anos** para a manipulação eficiente de dados.
 
 - **Outras Tecnologias**: Experiência com *Redis* para gerenciamento de cache, *Pentaho (ETL)* para processamento de dados, criação de *REST APIs*, documentação com *Swagger*, conhecimento em *Git*, e habilidades em *Java*, *MySQL*, *JavaScript*, *TypeScript*, *ThreeJS*, *HTML*, *CSS*, *Bootstrap*, *ViteJS*, e *Linux*.
 
@@ -37,12 +35,17 @@ Agradeço por considerar minha candidatura para oportunidades de colaboração.
 
 ## Experiência Profissional
 
-### Engenheiro de Software | *Ravpro*
-*2024 - Atual* | [Ravpro](https://ravpro.com.br/)
+### Desenvolvedor Front-End | *FidenTech*
+*2025 - atual* | [FidenTech](https://www.fidentech.com)
 
-Atuei na implementação de novas funcionalidades e na criação de novos projetos utilizando Python, React, Django, NodeJS e bancos de dados PostgreSQL e MongoDB, bem como a administração de ETL no Pentaho.
-Desenvolvi novas funcionalidades e mantive o sistema de Business Intelligence (BI), BoldBI.
-Trabalhei na integração de sistemas, como Dealernet e VHSYS, para a obtenção de dados, possibilitando a geração de relatórios diários.
+Contribuí com uma equipe dinâmica focada no **desenvolvimento e manutenção de aplicações web** utilizando *Oracle APEX*. Desenvolvendo soluções para projetos que integravam *JavaScript*, *HTML* e *CSS* para oferecer interfaces responsivas e intuitivas, além de aprimorar a funcionalidade das aplicações.
+
+### Engenheiro de Software | *Ravpro*
+*2024 - 2025* | [Ravpro](https://ravpro.com.br/)
+
+Atuei na **implementação de novas funcionalidades e na criação de novos projetos** utilizando *Python*, *React*, *Django*, *NodeJS* e bancos de dados *PostgreSQL* e *MongoDB*, bem como a administração de ETL no *Pentaho*.
+Desenvolvi novas funcionalidades e mantive o sistema de *Business Intelligence (BI)*, *BoldBI*.
+Trabalhei na **integração de sistemas, como Dealernet e VHSYS**, para a obtenção de dados, possibilitando a geração de relatórios diários.
 
 ### Programador Back-End | *Inteliger - Desenvolvimento de Software*
 *2021 - 2023* | [Inteliger](https://inteliger.com.br/)
@@ -50,14 +53,14 @@ Trabalhei na integração de sistemas, como Dealernet e VHSYS, para a obtenção
 Na Inteliger, desenvolvi habilidades significativas em tecnologias como *Python*, *Django*, *PostgreSQL*, *Redis* e *Pentaho (ETL)*.
 Além disso, aprimorei minha capacidade de **solucionar problemas de forma eficaz**, bem como estabelecer **comunicações fluidas com colegas de equipe e clientes**, seguindo os princípios da metodologia ágil *Scrum*.
 
-Tive a oportunidade de participar em **mais de 10 projetos**, desde integrações de pagamento e tercerizadas de entrega até desenvolvimento de um sistema de log e histórico de pedidos, alem do **treinamento de novos devs** que entram na empresa.
+Tive a oportunidade de participar em **mais de 10 projetos**, desde integrações de pagamento e tercerizadas de entrega até **desenvolvimento de um sistema de log e histórico de pedidos**, alem do **treinamento de novos devs** que entram na empresa.
 
 ## Experiência Acadêmica
 
 ### Bacharel em Ciência da Computação | *Pontifícia Universidade Católica do Paraná*
 *2019 - 2025* | [PUCPR](https://www.pucpr.br/)
 
-Durante meu período na PUCPR, adquiri conhecimento sólido em Ciência da Computação e aprimorei minhas habilidades em desenvolvimento de software.
+Durante meu período na PUCPR, adquiri **conhecimento sólido em Ciência da Computação** e aprimorei minhas **habilidades em desenvolvimento de software**.
 Estudando tecnologias e soluções algorítmicas ao redor de *Python*, *Java*, *Orientação a objetos* e *Segurança da Informação*.
 
 ### Técnico em Informática | *Centro de Educação Profissional Irmão Mário Cristóvão*
