@@ -5,10 +5,10 @@
 
 &nbsp;
 <i class="fa-brands fa-whatsapp" style="color: #25D366"></i>
-[+55 (41) 99627-7071](https://api.whatsapp.com/send?phone=5541996277071&text=Olá%20João%20Lima%2C%0AEstava%20avaliando%20o%20seu%20currículo%20e%20gostaria%20de%20entrar%20em%20contato%20para%20discutir%20uma%20possível%20oportunidade%20de%20trabalho.%20Quando%20você%20estiver%20disponível%20para%20uma%20conversa%2C%20por%20favor%2C%20deixe-me%20saber%20e%20agendaremos%20uma%20chamada.😀)
+[+55 (41) 99627-7071](https://api.whatsapp.com/send?phone=5541996277071&text=Hello%20João%20Lima%2C%0AI%20was%20reviewing%20your%20resume%20and%20would%20like%20to%20get%20in%20touch%20to%20discuss%20a%20possible%20job%20opportunity.%20When%20you%20are%20available%20for%20a%20conversation%2C%20please%20let%20me%20know%20and%20we%20will%20schedule%20a%20call.%20%F0%9F%98%80)
 &nbsp;•&nbsp;
 <i class="fa-regular fa-envelope" style="color: #D44638"></i>
-[joao@limadeveloper.com](mailto:joao@limadeveloper.com?subject=Oportunidade%20de%20Colabora%C3%A7%C3%A3o%20-%20Conversa%20Inicial&body=Ol%C3%A1%20Jo%C3%A3o%20Lima%2C%0D%0A%0D%0AEstava%20avaliando%20o%20seu%20curr%C3%ADculo%20e%20gostaria%20de%20entrar%20em%20contato%20para%20discutir%20uma%20poss%C3%ADvel%20oportunidade%20de%20trabalho.%0D%0AQuando%20voc%C3%AA%20estiver%20dispon%C3%ADvel%20para%20uma%20conversa%2C%20por%20favor%2C%20deixe-me%20saber%20e%20agendaremos%20uma%20chamada.%20%F0%9F%98%80)
+[joao@limadeveloper.com](mailto:joao@limadeveloper.com?subject=Collaboration%20Opportunity%20-%20Initial%20Conversation&body=Hello%20João%20Lima%2C%0D%0A%0D%0AI%20was%20reviewing%20your%20resume%20and%20would%20like%20to%20get%20in%20touch%20to%20discuss%20a%20possible%20job%20opportunity.%0D%0AWhen%20you%20are%20available%20for%20a%20conversation%2C%20please%20let%20me%20know%20and%20we%20will%20schedule%20a%20call.%20%F0%9F%98%80)
 &nbsp;•&nbsp;
 <i class="fa-brands fa-linkedin" style="color: #0e76a8"></i>
 [linkedin.com/in/limadeveloper](https://www.linkedin.com/in/limadeveloper)
@@ -17,53 +17,51 @@
 [github.com/JoaoVLima](https://www.github.com/JoaoVLima)
 &nbsp;
 
-## Resumo Profissional
+## Professional Summary
 
-Sou **João Victor de Lima**, desenvolvedor de software com base em Curitiba/BR, com experiência prática em **projetos de backend e frontend**, utilizando tecnologias como **Python (Django)**, **JavaScript/TypeScript**, **PostgreSQL**, **NodeJS**, entre outras. Atuei com **sistemas distribuídos**, integrações via APIs REST, ferramentas de **ETL**, e ambientes baseados em **Linux**. Estou constantemente aprimorando minhas habilidades em **microserviços**, **CI/CD**, e **nuvem (AWS/GCP)**.
+I am **João Victor de Lima**, a software developer based in Curitiba/BR, with hands-on experience in **backend and frontend projects**, using technologies such as **Python (Django)**, **JavaScript/TypeScript**, **PostgreSQL**, **NodeJS**, among others. I have worked with **distributed systems**, integrations via REST APIs, **ETL** tools, and **Linux**-based environments. I am constantly improving my skills in **microservices**, **CI/CD**, and **cloud (AWS/GCP)**.
 
+## Technical Experience / Skills
 
-## Experiência Técnica / Habilidades
+- **Django** (*Python*): I have approximately **4 years of professional experience with Django**, working on developing features for *e-commerces* and *Business Intelligence (BI)* platforms.
 
-- **Django** (*Python*): Possuo aproximadamente **4 anos de experiência profissional com Django**, trabalhando no desenvolvimento de recursos para *e-commerces* e plataformas de *Business Intelligence (BI)*.
+- **PostgreSQL**: I have extensive experience with this relational database system, using it daily for about **4 years** for efficient data manipulation.
 
-- **PostgreSQL**: Tenho ampla experiência com este sistema de banco de dados relacional, utilizando-o diariamente por cerca de **4 anos** para a manipulação eficiente de dados.
+- **Other Technologies**: Experience with *Redis* for cache management, *Pentaho (ETL)* for data processing, building *REST APIs*, documentation with *Swagger*, knowledge in *Git*, and skills in *Java*, *MySQL*, *JavaScript*, *TypeScript*, *ThreeJS*, *HTML*, *CSS*, *Bootstrap*, *ViteJS*, and *Linux*.
 
-- **Outras Tecnologias**: Experiência com *Redis* para gerenciamento de cache, *Pentaho (ETL)* para processamento de dados, criação de *REST APIs*, documentação com *Swagger*, conhecimento em *Git*, e habilidades em *Java*, *MySQL*, *JavaScript*, *TypeScript*, *ThreeJS*, *HTML*, *CSS*, *Bootstrap*, *ViteJS*, e *Linux*.
+- **Languages**: English (Advanced), Brazilian Portuguese (Native).
 
-- **Idiomas**: Inglês (Avançado), Português brasileiro (Nativo).
+## Professional Experience
 
+### Front-End Developer | *FidenTech*
+*2025 - present* | [FidenTech](https://www.fidentech.com)
 
-## Experiência Profissional
+I contributed to a dynamic team focused on **developing and maintaining web applications** using *Oracle APEX*. I developed solutions for projects that integrated *JavaScript*, *HTML*, and *CSS* to deliver responsive and intuitive interfaces, in addition to enhancing application functionality.
 
-### Desenvolvedor Front-End | *FidenTech*
-*2025 - atual* | [FidenTech](https://www.fidentech.com)
-
-Contribuí com uma equipe dinâmica focada no **desenvolvimento e manutenção de aplicações web** utilizando *Oracle APEX*. Desenvolvendo soluções para projetos que integravam *JavaScript*, *HTML* e *CSS* para oferecer interfaces responsivas e intuitivas, além de aprimorar a funcionalidade das aplicações.
-
-### Engenheiro de Software | *Ravpro*
+### Software Engineer | *Ravpro*
 *2024 - 2025* | [Ravpro](https://ravpro.com.br/)
 
-Atuei na **implementação de novas funcionalidades e na criação de novos projetos** utilizando *Python*, *React*, *Django*, *NodeJS* e bancos de dados *PostgreSQL* e *MongoDB*, bem como a administração de ETL no *Pentaho*.
-Desenvolvi novas funcionalidades e mantive o sistema de *Business Intelligence (BI)*, *BoldBI*.
-Trabalhei na **integração de sistemas, como Dealernet e VHSYS**, para a obtenção de dados, possibilitando a geração de relatórios diários.
+I worked on **implementing new features and creating new projects** using *Python*, *React*, *Django*, *NodeJS*, and *PostgreSQL* and *MongoDB* databases, as well as managing ETL in *Pentaho*.
+I developed new features and maintained the *Business Intelligence (BI)* system, *BoldBI*.
+I worked on **integrating systems, such as Dealernet and VHSYS**, to obtain data, enabling the generation of daily reports.
 
-### Programador Back-End | *Inteliger - Desenvolvimento de Software*
+### Back-End Programmer | *Inteliger - Software Development*
 *2021 - 2023* | [Inteliger](https://inteliger.com.br/)
 
-Na Inteliger, desenvolvi habilidades significativas em tecnologias como *Python*, *Django*, *PostgreSQL*, *Redis* e *Pentaho (ETL)*.
-Além disso, aprimorei minha capacidade de **solucionar problemas de forma eficaz**, bem como estabelecer **comunicações fluidas com colegas de equipe e clientes**, seguindo os princípios da metodologia ágil *Scrum*.
+At Inteliger, I developed significant skills in technologies such as *Python*, *Django*, *PostgreSQL*, *Redis*, and *Pentaho (ETL)*.
+In addition, I improved my ability to **solve problems effectively**, as well as establish **smooth communication with teammates and clients**, following the principles of the agile *Scrum* methodology.
 
-Tive a oportunidade de participar em **mais de 10 projetos**, desde integrações de pagamento e tercerizadas de entrega até **desenvolvimento de um sistema de log e histórico de pedidos**, alem do **treinamento de novos devs** que entram na empresa.
+I had the opportunity to participate in **more than 10 projects**, ranging from payment and delivery service integrations to **developing a logging and order history system**, as well as **training new developers** joining the company.
 
-## Experiência Acadêmica
+## Academic Experience
 
-### Bacharel em Ciência da Computação | *Pontifícia Universidade Católica do Paraná*
+### Bachelor’s in Computer Science | *Pontifical Catholic University of Paraná*
 *2019 - 2025* | [PUCPR](https://www.pucpr.br/)
 
-Durante meu período na PUCPR, adquiri **conhecimento sólido em Ciência da Computação** e aprimorei minhas **habilidades em desenvolvimento de software**.
-Estudando tecnologias e soluções algorítmicas ao redor de *Python*, *Java*, *Orientação a objetos* e *Segurança da Informação*.
+During my time at PUCPR, I acquired **solid knowledge in Computer Science** and enhanced my **software development skills**.
+Studying technologies and algorithmic solutions around *Python*, *Java*, *Object-Oriented Programming*, and *Information Security*.
 
-### Técnico em Informática | *Centro de Educação Profissional Irmão Mário Cristóvão*
+### Technical Degree in Computer Science | *Irmão Mário Cristóvão Professional Education Center*
 *2015 - 2018* | [TECPUC](http://www.tecpuc.com.br/)
 
-Meu curso Técnico em Informática me proporcionou uma base sólida em várias tecnologias, incluindo *HTML*, *CSS*, *PHP*, *SQL*, *Infraestrutura de Redes*, *Python* e *Linux*.
+My Technical Degree in Computer Science provided me with a solid foundation in several technologies, including *HTML*, *CSS*, *PHP*, *SQL*, *Network Infrastructure*, *Python*, and *Linux*.
