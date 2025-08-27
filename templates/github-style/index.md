@@ -34,24 +34,32 @@ I am **João Victor de Lima**, a software developer based in Curitiba/BR, with h
 ## Professional Experience
 
 ### Front-End Developer | *FidenTech*
-*2025 - present* | [FidenTech](https://www.fidentech.com)
+*2025* | [FidenTech](https://www.fidentech.com)
 
 I contributed to a dynamic team focused on **developing and maintaining web applications** using *Oracle APEX*. I developed solutions for projects that integrated *JavaScript*, *HTML*, and *CSS* to deliver responsive and intuitive interfaces, in addition to enhancing application functionality.
 
 ### Software Engineer | *Ravpro*
 *2024 - 2025* | [Ravpro](https://ravpro.com.br/)
 
-I worked on **implementing new features and creating new projects** using *Python*, *React*, *Django*, *NodeJS*, and *PostgreSQL* and *MongoDB* databases, as well as managing ETL in *Pentaho*.
-I developed new features and maintained the *Business Intelligence (BI)* system, *BoldBI*.
-I worked on **integrating systems, such as Dealernet and VHSYS**, to obtain data, enabling the generation of daily reports.
+Ravpro delivers software solutions tailored for car dealerships across Brazil. The company supplies solutions to some of the largest car and truck dealerships in Brazil,
+- Engineered backend and frontend features for RavMenu Web, enhancing upselling opportunities and improving customer decision-making at high-volume dealerships.
+- Developed and maintained system integrations and ETL pipelines for real-time synchronization of vehicle data, parts inventory, and maintenance scheduling, as well as data retrieval for Business Intelligence (BI) systems.
+- Strengthened problem-solving skills and maintained clear, assertive communication with team members and clients, working within agile Scrum principles.
+    - Stack: React, NodeJS, Python, PostgreSQL, MongoDB, AWS, Pentaho (ETL).
 
 ### Back-End Programmer | *Inteliger - Software Development*
 *2021 - 2023* | [Inteliger](https://inteliger.com.br/)
 
-At Inteliger, I developed significant skills in technologies such as *Python*, *Django*, *PostgreSQL*, *Redis*, and *Pentaho (ETL)*.
-In addition, I improved my ability to **solve problems effectively**, as well as establish **smooth communication with teammates and clients**, following the principles of the agile *Scrum* methodology.
+Inteliger specializes in ecommerce, AI-powered retail solutions and Business Intelligence (BI) systems to monitor ecommerce sales, inventory, and operational KPIs for major pharmacy chains across Brazil.
+- Served as principal developer for the Amplius (BI) project and contributed to over 10 projects, ranging from payment and third-party delivery integrations to developing a logging and order history system.
+- Responsible for backend development and maintenance, integrations, and system improvements, while enhancing problem-solving abilities and fostering smooth communication with team members and clients under agile Scrum methodology.
+    - Stack: Python, Django, PostgreSQL, Redis, Pentaho (ETL), Google Cloud Platform (GCP), Linux, Git.
 
-I had the opportunity to participate in **more than 10 projects**, ranging from payment and delivery service integrations to **developing a logging and order history system**, as well as **training new developers** joining the company.
+
+#### Back-End Developer (Junior) | *Inteliger - Software Development*
+*2021 - 2023* | [Inteliger](https://inteliger.com.br/)
+
+Developed and maintained Inteliger’s Venda Mais (Voai) omnichannel platform, enabling pharmacies to unify e-commerce, marketplace, and telesales operations.
 
 ## Academic Experience
 

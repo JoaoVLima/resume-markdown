@@ -49,13 +49,21 @@ function handle_options() {
     return status;
 }
 
-function create_server(){
+function create_server() {
     const server = http.createServer((req, res) => {
         let index = markdown.construct_html(template);
         res.statusCode = 200;
         res.setHeader('Content-Length', Buffer.byteLength(index));
         res.setHeader('Content-Type', 'text/html; charset=utf-8');
         res.end(index);
+    });
+
+    server.on('error', (err) => {
+        if (err.code === 'EADDRINUSE') {
+            console.error(`Port ${port} is already in use.`);
+        } else {
+            console.error(err);
+        }
     });
 
     server.listen(port, hostname, () => {
@@ -70,11 +78,19 @@ function main() {
     if (!status) return;
 
     let server = create_server();
+    let restartTimeout = null;
 
-    fs.watch(__dirname + `/../templates/${template}/`, {recursive:true}, (eventType, filename) => {
+    fs.watch(__dirname + `/../templates/${template}/`, { recursive: true }, (eventType, filename) => {
         console.log('File "' + filename + '" was changed: ' + eventType);
-        server.close(create_server)
 
+        if (restartTimeout) clearTimeout(restartTimeout);
+
+        // Debounce restarts to avoid multiple calls
+        restartTimeout = setTimeout(() => {
+            server.close(() => {
+                server = create_server();
+            });
+        }, 100); // wait 100ms before restarting
     });
 }
 
